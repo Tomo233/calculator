@@ -1,0 +1,99 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+div {
+  color: white;
+  font-weight: bold;
+}
+.container {
+  position: relative;
+  max-width: 450px;
+  height: 100%;
+  margin: 10vh auto;
+  border-radius: 15px;
+  background-color: black;
+
+  /* box-shadow: inset 0px 0px 84px 12px rgba(0, 0, 0, 0.1); */
+}
+.buttons {
+  cursor: pointer;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  gap: 5px;
+  line-height: 100px;
+  text-align: center;
+  font-size: 25px;
+  color: #000;
+  border-top: 1px dotted black;
+}
+.button {
+  border-radius: 50%;
+  color: #2a93dd;
+  background-color: #2e3137;
+}
+.display {
+  text-align: right;
+  height: 100px;
+  line-height: 70px;
+  padding: 16px 20px;
+  font-size: 25px;
+  border-bottom: 1px dotted #fff;
+  margin-bottom: 10px;
+}
+.bg {
+  background-color: #005db2;
+  color: #fff;
+}
+.b {
+  background-color: grey;
+  color: white;
+}
+#equal {
+  background-color: #1991ff;
+}
+button {
+  background-color: transparent;
+}
+.rot {
+  cursor: pointer;
+  color: #fff;
+  font-size: 30px;
+  position: absolute;
+  top: 45px;
+  left: 10px;
+}
+.container2 {
+  display: none;
+  position: relative;
+  max-width: 900px;
+  margin: 14vh auto;
+  border-radius: 25px;
+  background-color: black;
+}
+.buttons2 {
+  cursor: pointer;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+  gap: 15px;
+  line-height: 80px;
+  text-align: center;
+  font-size: 25px;
+  color: #000;
+  margin-top: 10px;
+}
+.button2 {
+  border-radius: 30%;
+  color: #2a93dd;
+  background-color: #2e3137;
+}
+#equal2 {
+  color: #fff;
+}
+.dis {
+  display: grid;
+}
+.show-display {
+  display: none;
+}

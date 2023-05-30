@@ -1,0 +1,41 @@
+// let html = `<div class="container2">
+// <div id="display"></div>
+// <!-- <div id="strelica" class="button">&rarr;</div> -->
+// <div class="buttons2">
+//   <div class="button2" id="strelica">&rarr;</div>
+//    <div class="button button2">Rad</div>
+//    <div class="button button2">√</div>
+//    <div class="button button2">C</div>
+//    <div class="button button2">(</div>
+//    <div class="button button2">)</div>
+//    <div class="button button2">/</div>
+//    <div class="button button2">%</div>
+//    <div class="button button2">cos</div>
+//    <div class="button button2">tan</div>
+//    <div class="button button2">7</div>
+//    <div class="button button2">8</div>
+//    <div class="button button2">9</div>
+//    <div class="button button2">*</div>
+//    <div class="button button2">in</div>
+//    <div class="button button2">log</div>
+//    <div class="button button2">1/x</div>
+//    <div class="button button2">4</div>
+//    <div class="button button2">5</div>
+//    <div class="button button2">6</div>
+//    <div class="button button2">-</div>
+//    <div class="button button2">e^x</div>
+//    <div class="button button2">x^2</div>
+//    <div class="button button2">x^y</div>
+//    <div class="button button2">1</div>
+//    <div class="button button2">2</div>
+//    <div class="button button2">3</div>
+//    <div class="button button2">+</div>
+//    <div class="button button2">|x|</div>
+//    <div class="button button2">π</div>
+//    <div class="button button2">e</div>
+//    <div class="button button2">+/-</div>
+//    <div class="button button2">0</div>
+//    <div class="button button2">.</div>
+//   <div id="equal2" class="button2">=</div>
+// </div>
+// </div>`;
